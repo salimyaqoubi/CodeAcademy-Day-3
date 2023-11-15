@@ -1,0 +1,15 @@
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\bin\Debug\net6.0\ExrDay2.exe
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\bin\Debug\net6.0\ExrDay2.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\bin\Debug\net6.0\ExrDay2.runtimeconfig.json
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\bin\Debug\net6.0\ExrDay2.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\bin\Debug\net6.0\ExrDay2.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\obj\Debug\net6.0\ExrDay2.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\obj\Debug\net6.0\ExrDay2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\obj\Debug\net6.0\ExrDay2.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\obj\Debug\net6.0\ExrDay2.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\obj\Debug\net6.0\ExrDay2.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\obj\Debug\net6.0\ExrDay2.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\obj\Debug\net6.0\refint\ExrDay2.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\obj\Debug\net6.0\ExrDay2.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\obj\Debug\net6.0\ExrDay2.genruntimeconfig.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\ExrDay2\ExrDay2\obj\Debug\net6.0\ref\ExrDay2.dll
